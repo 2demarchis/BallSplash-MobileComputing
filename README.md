@@ -22,6 +22,7 @@ Volendo riassumere le principali funzionalità e caratteristiche del gioco:
    alla difficoltà della partita, ovvero: più la difficoltà è impostata a livello alto, più bombe e teschi ci troveremo a dover gestire durante la partita
 5. Tutti gli oggetti nel gioco sono modellati secondo una "fisica di contatto": urtando tra di loro creano traiettorie imprevedibili, rendendo l'accumulazione
    di punti molto difficile quando ci sono in ballo molti teschi e bombe
+
 Nel video si sottolineano tutti gli aspetti del gioco suddetti, in questo senso mi trovo a dover fare un appunto: l'applicativo è, ovviamente, provvisto di un soundtrack di sottofondo durante la partita che non è 
 apprezzabile nelle prime partite visibili nel filmato poichè l'iPad dove ho registrato aveva il silenzioso... Ho provveduto a registrare una nuova partita con il sound on, collegandola con la parte del video già presente. Nel filmato viene analizzato e verificato anche il corretto funzionamento dei meccanismi di: Register, Login e Recupero Credenziali sfruttando lo script di PlayFab.
 
